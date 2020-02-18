@@ -1,0 +1,1 @@
+This project is for the COMP 290 tools course, that teahces us how to use git. We will be using basic git commands to stage and commit repository changes. This project will encompass making a basic webpage.
